@@ -1,9 +1,10 @@
 {
-    "name": "laravel/laravel",
+    "name": "DRPG/laravel-coding-test",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "DRPG Coding Test.",
     "keywords": [
-        "framework",
+        "coding",
+        "test",
         "laravel"
     ],
     "license": "MIT",
