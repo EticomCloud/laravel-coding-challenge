@@ -12,7 +12,7 @@ implementation and provide any feedback.
 
 ## Our Expectation
 
-Using the project provided we want to integrate with a 3rd party API to pull in user data.
+Using the project provided we want you to integrate with a 3rd party API to pull in user data.
 
 We want this to be maintainable and flexible to potentially add other API calls to the future.
 This code might also be used in other parts of the application to get a fresh set of the data from the API.
@@ -21,9 +21,8 @@ There's a few pointers we would suggest to think about when coming up with your 
 
 - How we would be able to test this using PHPUnit in the future if we needed to?
 - Don't always write everything yourself you can pull in other packages if you feel they are needed.
-
-We don't want to worry about any sort of error handling of the API, so assume that the API will always
-exist and we always return you the expected data.
+- Don't want to worry about any sort of error handling of the API, so assume that the API will always
+  exist and we always return you the expected data.
 
 ## Task
 
